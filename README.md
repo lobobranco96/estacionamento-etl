@@ -1,7 +1,6 @@
 # estacionamento-etl
 
 # Arquitetura final do projeto
-![arquitetura](https://github.com/lobobranco96/airflow-flask-rds/assets/131804750/c753d52c-2b11-459b-99b1-d2e90dfff579)
 
 CASE DO PROJETO: 
   - Neste projeto, O gestor da área de dados da minha empresa Lobobranco LTDA, propos a criação de uma pipeline de dados para gerenciar e processar dados consumidos de uma API própria da empresa. A pipeline tem como objetivo      - criar tabelas com relacionamento, transformar os dados e gerar uma view temporária normalizada.
@@ -34,6 +33,12 @@ CASE DO PROJETO:
 - Diagrama de classes 
 <div align="center">
 <img src="https://github.com/lobobranco96/airflow-flask-rds/assets/131804750/1d85081e-9e19-4044-9e4e-fac94c177f7c" width="900px" />
+</div>
+
+- Planilha de cadastro
+
+<div align="center">
+<img src="(https://github.com/lobobranco96/estacionamento-etl/assets/131804750/96199c26-e903-40db-9561-6935922b9ea8)" width="00px" />
 </div>
 
 ### Pré-requisitos
@@ -95,7 +100,6 @@ No connections do airflow preencha nesse formato.
 
 Acesse o painel do Airflow em http://localhost:8080 (ou outro endereço conforme configurado) para monitorar e executar o DAG application.py
 
-![planilha cadastro](https://github.com/lobobranco96/estacionamento-etl/assets/131804750/96199c26-e903-40db-9561-6935922b9ea8)
 
 Personalização e Contribuição:
 
