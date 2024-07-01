@@ -38,7 +38,7 @@ CASE DO PROJETO:
 - Planilha de cadastr
   
 <div align="center">
-<img src="(https://github.com/lobobranco96/estacionamento-etl/assets/131804750/96199c26-e903-40db-9561-6935922b9ea8)" width="00px" />
+<img src="(https://github.com/lobobranco96/estacionamento-etl/assets/131804750/96199c26-e903-40db-9561-6935922b9ea8)" width="900px" />
 </div>
 
 ### Pré-requisitos
