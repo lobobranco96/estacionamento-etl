@@ -1,0 +1,18 @@
+# Arquivos de configuração locais
+config.ini
+.env
+
+# Diretório de dependências Python
+/venv/
+
+# Arquivos de log
+*.log
+
+
+# Ignorar arquivos compilados
+*.pyc
+
+/backup_completo
+/logs
+postgrescon.txt
+aws-con.txt
