@@ -35,8 +35,8 @@ CASE DO PROJETO:
 <img src="https://github.com/lobobranco96/airflow-flask-rds/assets/131804750/1d85081e-9e19-4044-9e4e-fac94c177f7c" width="900px" />
 </div>
 
-- Planilha de cadastro
-
+- Planilha de cadastr
+  
 <div align="center">
 <img src="(https://github.com/lobobranco96/estacionamento-etl/assets/131804750/96199c26-e903-40db-9561-6935922b9ea8)" width="00px" />
 </div>
