@@ -1,6 +1,7 @@
 # estacionamento-etl
 
 # Arquitetura final do projeto
+![arquitetura](https://github.com/lobobranco96/estacionamento-etl/assets/131804750/5c6b57f0-7d05-419b-9343-1cf23d8a01c9)
 
 CASE DO PROJETO: 
   - Neste projeto, O gestor da área de dados da minha empresa Lobobranco LTDA, propos a criação de uma pipeline de dados para gerenciar e processar dados consumidos de uma API própria da empresa. A pipeline tem como objetivo      - criar tabelas com relacionamento, transformar os dados e gerar uma view temporária normalizada.
