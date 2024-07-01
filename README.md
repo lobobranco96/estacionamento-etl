@@ -95,6 +95,7 @@ No connections do airflow preencha nesse formato.
 
 Acesse o painel do Airflow em http://localhost:8080 (ou outro endereço conforme configurado) para monitorar e executar o DAG application.py
 
+![planilha cadastro](https://github.com/lobobranco96/estacionamento-etl/assets/131804750/96199c26-e903-40db-9561-6935922b9ea8)
 
 Personalização e Contribuição:
 
